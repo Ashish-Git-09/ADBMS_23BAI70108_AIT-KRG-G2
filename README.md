@@ -1,5 +1,3 @@
-ASHISH
-<br>
-23BAI70108
-<br>
-23 AIT - KRG - G2
+# ASHISH
+## 23BAI70108
+$ 23 AIT - KRG - G2 $
